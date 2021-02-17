@@ -1,4 +1,4 @@
-# :fa-windows: Windows OS Drives refresh cmd code
+# Windows OS Drives refresh cmd code
 Run This File In Run In Administrator And Make Your Pc Faster
 
 **This command runs tree command in not only the C drives but also other drives too...**
