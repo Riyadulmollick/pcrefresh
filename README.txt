@@ -1,8 +1,11 @@
-# pcrefresh
-Refresh your whole PC
-Requirement: Windows XP/Vista/7/8/8.1/10
-Maximum Drive: 4
+# :fa-windows: Windows OS Drives refresh cmd code
+Run This File In Run In Administrator And Make Your Pc Faster
 
-At first time run this program in "Run in Administration"
+**This command runs tree command in not only the C drives but also other drives too...**
 
-Thank You
+------------
+**To download via git**
+`git clone https://github.com/Riyadulmollick/pcrefresh.git`
+
+**Supports Maximum 4 Drives But You Can Edit This File And Add More Drive If You Need
+Os Supports: Windows 10, 8.1, 8, 7, Vista, Xp**
